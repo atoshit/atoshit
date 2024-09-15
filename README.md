@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&label=Profile%20views&color=12114c&style=radical" alt="atoshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&color=12114c" alt="atoshit" /> </p>
 
 # OS Used
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
