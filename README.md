@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://camo.githubusercontent.com/2bb187b295fb593bf29453cd18cee0d29302e877b014db7c4ca58dc805176f76/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d53555032416b2669636f6e3d3526636f6c6f723d30" alt="atoshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&label=Profile%20views&color=0e75b6&style=flat" alt="atoshit" /> </p>
 
 <h3 align="left">Connexion:</h3>
 <p align="left">
