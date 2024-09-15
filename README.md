@@ -1,11 +1,13 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&label=Profile%20views&color=0e75b6&style=radical" alt="atoshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&label=Profile%20views&color=12114c&style=radical" alt="atoshit" /> </p>
 
 # OS Used
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+
 # Language mastered
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+
 # My work tools
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
