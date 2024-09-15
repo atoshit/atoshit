@@ -1,13 +1,16 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&label=Profile%20views&color=0e75b6&style=flat" alt="atoshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&label=Profile%20views&color=0e75b6&style=radical" alt="atoshit" /> </p>
 
-<h3 align="left">Connexion:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@atoshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atoshit" height="30" width="40" /></a>
-<a href="https://discord.gg/fivedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fivedev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a> </p>
+# OS Used
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+# Language mastered
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+# My work tools
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atoshit&show_icons=true&locale=en&layout=compact&theme=radical" alt="atoshit" /></p>
 
