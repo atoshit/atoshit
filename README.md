@@ -9,6 +9,6 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atoshit&show_icons=true&locale=en&layout=compact" alt="atoshit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atoshit&show_icons=true&locale=en&layout=compact&theme=radical" alt="atoshit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atoshit&show_icons=true&theme=radical" alt="atoshit" /></p>
