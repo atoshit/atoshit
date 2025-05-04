@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&color=12114c" alt="atoshit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atoshit&color=d33e3d" alt="atoshit" /> </p>
 
 https://discord.gg/atoshi
 
